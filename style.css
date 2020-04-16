@@ -1,3 +1,7 @@
+body {
+    font-family: 'Spartan', sans-serif;
+}
+
 .charts {
     width: 80%;
     margin: 20px;
@@ -6,4 +10,47 @@
 
 .textbox {
     margin: 80px;
+}
+
+/*  Home */
+
+.header > img {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.home_crypto > img {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.home_crypto {
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 50px;
+    text-align: justify;
+}
+
+.home_crypto > h1 {
+    text-align: center;
+}
+
+/* Cryptocurrencies > What is Bitcoin */
+
+.what_is_bitcoin {
+    
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.what_is_bitcoin > img {
+   width: 80%;
+   height: auto;
+   display: block;
+   margin: 0 auto;
 }
