@@ -1,5 +1,11 @@
+/* ------global------- */
+
 body {
     font-family: 'Spartan', sans-serif;
+}
+
+h1 {
+    text-align: center;
 }
 
 .charts {
@@ -8,19 +14,10 @@ body {
     margin-left: 140px;
 }
 
-.textbox {
-    margin: 80px;
-}
 
-/*  Home */
+/* ------ Home ------- */
 
-.header > img {
-    width: 70%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    margin-top: 40px;
-}
+
 
 .home_crypto > img {
     width: 70%;
@@ -40,10 +37,39 @@ body {
     text-align: center;
 }
 
+.how_it_works {
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 50px;
+    text-align: justify;
+}
+
+.how_it_works > img {
+    width: 10%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* ---Knowledge ---*/
+
+.knowledge {
+    text-align: justify;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+ .knowledge > img {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+ }
+
 /* Cryptocurrencies > What is Bitcoin */
 
 .what_is_bitcoin {
-    
+    text-align: justify;
     margin-left: 130px;
     margin-right: 130px;
 }
