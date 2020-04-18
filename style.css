@@ -80,3 +80,18 @@ h1 {
    display: block;
    margin: 0 auto;
 }
+
+/*---trading---*/
+.trading {
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.trading > img {
+    width: 35%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
