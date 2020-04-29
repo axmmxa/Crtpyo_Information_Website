@@ -1,0 +1,242 @@
+/* ------global------- */
+
+body {
+    font-family: 'Spartan', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.charts {
+    width: 80%;
+    margin: 20px;
+    margin-left: 140px;
+}
+
+
+/* ------ Home ------- */
+
+
+
+.home_crypto > img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+.home_crypto {
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 50px;
+    text-align: justify;
+}
+
+.home_crypto > h1 {
+    text-align: center;
+}
+
+.how_it_works {
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 50px;
+    text-align: justify;
+}
+
+.how_it_works > img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* ---Knowledge ---*/
+
+.knowledge {
+    text-align: justify;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+ .knowledge > img {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+ }
+
+ #mining {
+    text-align: justify;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+ #mining > img {
+    width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+ }
+
+ #wallets {
+    text-align: justify;
+    margin-left: 130px;
+    margin-right: 130px;
+ }
+
+ #wallets > img {
+    width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+ }
+
+/* Cryptocurrencies > What is Bitcoin */
+
+.what_is_bitcoin {
+    text-align: justify;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.what_is_bitcoin > img {
+   width: 80%;
+   height: auto;
+   display: block;
+   margin: 0 auto;
+}
+
+.charts {
+    width: 80%;
+   height: auto;
+   display: block;
+   margin: 0 auto;
+   margin-top: 30px;
+}
+
+/* Cryptocurrencies > What is Ethereum */
+
+.what_is_ethereum {
+    text-align: justify;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.what_is_ethereum > img {
+    width: 45%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+ }
+
+/* Cryptocurrencies > What is Litecoin */
+
+.what_is_litecoin {
+    text-align: justify;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.what_is_litecoin > img {
+    width: 40%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+ }
+ 
+
+/*--- Buy Coins ---*/
+
+.buy_coins {
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.buy_coins > img {
+    width: 35%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+    
+.col-6 > img {
+    width: 50%;
+}
+
+.col-6 > iframe {
+    margin-top: 50px;
+    margin-left: 60px;
+}
+    
+
+/*---trading---*/
+.trading {
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-top: 20px;
+    text-align: justify;
+}
+
+.trading > img {
+    width: 35%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#what_is_trading {
+    width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/*---Website-in-progress---*/
+
+#in_progress {
+    width: 9%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+/*--- social media Icons ---*/
+ .social_media {
+     text-align: center;
+ }
+
+ /* Style all font awesome icons */
+ .fa {
+    padding: 20px;
+    font-size: 80px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  /* Facebook */
+.fa-facebook {
+    background: orange;
+    color: white;
+  }
+
+   /*Twitter*/
+.fa-twitter {
+    background: orange;
+    color: white;
+  }
+
+  /* Instagram*/
+.fa-instagram {
+    background: orange;
+    color: white;
+  }
+  
+  
